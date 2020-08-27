@@ -9751,6 +9751,11 @@ h4.sub-title {
 .w3l-header label.logo-view {
   font-weight: 300;
   cursor: pointer; }
+  
+.w3l-header label.logo-viewby {
+  font-weight: 300;
+  font-size: 10px;
+  cursor: pointer; }
 
 .w3l-header .navbar-light .navbar-nav .nav-link {
   color: rgba(0, 0, 0, 0.5);
